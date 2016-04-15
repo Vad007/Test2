@@ -21,7 +21,8 @@
   </component>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="execute.TestNG.Run" count="6" />
+      <entry feature="execute.TestNG.Debug" count="1" />
+      <entry feature="execute.TestNG.Run" count="9" />
       <entry feature="ide.settings.Java_Compiler" count="1" />
       <entry feature="ideaapp.started" count="5" />
       <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="1" />
