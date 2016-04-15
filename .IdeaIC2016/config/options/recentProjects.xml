@@ -1,0 +1,31 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="C:\Users\Администратор\IdeaProjects\Test1" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="C:\Users\Администратор\IdeaProjects\Test1" />
+      </list>
+    </option>
+    <option name="lastPath" value="C:\Users\Администратор\IdeaProjects\Test1" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="C:\Users\Администратор\IdeaProjects\Test1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-145.597" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="D:\IDE\IntelliJ IDEA Community Edition 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1460744208299" />
+              <option name="buildTimestamp" value="1459198800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/IdeaProjects" />
+  </component>
+</application>

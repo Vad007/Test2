@@ -1,0 +1,30 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="Git">
+      <project id="Test1" values="config.save.policy.STASH,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,data.local.branches.count.0,data.remote.branches.count.0,config.force.push.enabled,data.local.branches.count.0,data.remotes.in.project.0,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,data.remotes.in.project.1,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.0" collectionTime="1460660656285" />
+    </group>
+    <group name="language-level">
+      <project id="Test1" values="JDK_1_8" collectionTime="1460660656280" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="Test1" values="TestNG" collectionTime="1460660656082" />
+    </group>
+    <group name="vcs">
+      <project id="Test1" values="Git" collectionTime="1460660656080" />
+    </group>
+    <group name="file-type">
+      <project id="Test1" values="IDEA_MODULE,XML,JAVA" collectionTime="1460660656244" />
+    </group>
+    <group name="module type">
+      <project id="Test1" values="JAVA_MODULE" collectionTime="1460660656081" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="execute.TestNG.Run" count="6" />
+      <entry feature="ide.settings.Java_Compiler" count="1" />
+      <entry feature="ideaapp.started" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="1" />
+    </counts>
+  </component>
+</application>
