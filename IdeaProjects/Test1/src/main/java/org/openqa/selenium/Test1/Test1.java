@@ -28,4 +28,4 @@ public class Test1 extends Driver {
         account.clickOnApps();
      }
 
- }
+  }
